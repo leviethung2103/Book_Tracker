@@ -1,4 +1,6 @@
 # Introduction
+Author: Hung L.V 
+Date: April 1, 2020
 
 This repo is the place where I am keeping track my reading list. 
 
