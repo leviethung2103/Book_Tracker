@@ -14,5 +14,6 @@ This repo is the place where I am keeping track my reading list.
 | Bí quyết làm giàu của Warren Buffet Châu Á                   |                | April 4 | April 4 |      |
 | 34 kế kinh doanh làm giàu                                    |                | April 3 | April 3 |      |
 | 7 quyết định làm nên thành công                              |                | April 5 | April 5 |      |
+| Kinh tế học hài hước                                         |                | Fed 15  | Feb 18  |      |
 |                                                              |                |         |         |      |
-|                                                              |                |         |         |      |
+
